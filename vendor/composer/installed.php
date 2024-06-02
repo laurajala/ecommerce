@@ -38,9 +38,9 @@
             'dev_requirement' => false,
         ),
         'slim/slim' => array(
-            'pretty_version' => '2.0.0',
-            'version' => '2.0.0.0',
-            'reference' => '3e95c9abbc57a8f023ab4dacebcab9dae4d9f1f0',
+            'pretty_version' => '2.6.3',
+            'version' => '2.6.3.0',
+            'reference' => '9224ed81ac1c412881e8d762755e3d76ebf580c0',
             'type' => 'library',
             'install_path' => __DIR__ . '/../slim/slim',
             'aliases' => array(),

@@ -24,7 +24,7 @@ class ComposerStaticInit868da647395c89f124f699a59b66bb7f
         ),
         'Hcode\\' => 
         array (
-            0 => __DIR__ . '/..' . '/Laura Ajala /php-classes/src',
+            0 => __DIR__ . '/..' . '/Hcode/php-classes/src',
         ),
     );
 
